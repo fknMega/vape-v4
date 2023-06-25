@@ -14,8 +14,22 @@ Contains:
 
 > Selfhosted server
 
+
+
 ## Download links: Please star at the top right ⭐
 > https://anonfiles.com/vfn8R7O8xb/VapeCracked_rar
+
+1. First install the server:
+start cmd
+run "pip install -r requirements.txt"
+then "py server.py" to run the server,
+keep the server running in the background,
+
+2. Patch before running:
+Go to the folder of whatever you wanna use (VAPE V4 / LITE)
+Drag the exe into the patcher
+
+3. Now run it while minecraft is running.
 
 ## known errors and issues:
 `none atm`
